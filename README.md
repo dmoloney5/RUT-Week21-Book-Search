@@ -1,7 +1,7 @@
 # RUT-Week21-Book-Search
 RUT-Week21-Book-Search
 ## Description
-  This is my resume that was rebuild using React.  You can select each link on the top to bring you to that section on.  This website is also ready to be use on any mobile devices.  
+  This fully functioning Google Books API search engine built with a RESTful API, and I refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.  
 
   
   ## Table of Contents
@@ -12,7 +12,7 @@ RUT-Week21-Book-Search
   * [License](#License)
   
   ## Installation
-  Open Terminal and type "npm i"  after everything installs now type "npm start"
+  Open Terminal and type "npm i"  after everything installs now type "npm run develop"
 
   ## Credit
   Dennis Moloney
@@ -21,13 +21,13 @@ RUT-Week21-Book-Search
   https://dmoloney5.github.io/RUT-React-Portfolio/
 
   ## Repository
-  https://github.com/dmoloney5/RUT-React-Portfolio.git
+  https://github.com/dmoloney5/RUT-Week21-Book-Search.git
 
   ## License
   ### The following apps were used: 
-  Nodejs, ExpressJS, MongoDB, React, Bootstrap and mongoose
+  Nodejs, ExpressJS, MongoDB, React, Apollo Server, JWT, GraphQL, Bootstrap and mongoose
   
   ## ScreenShot
-  ![screenshot](https://github.com/dmoloney5/RUT-React-Portfolio/blob/main/src/images/Dennis_Moloney_Portfolio.jpg)
+  ![screenshot](https://github.com/dmoloney5/RUT-Week21-Book-Search/blob/main/assets/Book%20Search.jpg)
 
   
