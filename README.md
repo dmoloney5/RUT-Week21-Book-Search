@@ -18,7 +18,7 @@ RUT-Week21-Book-Search
   Dennis Moloney
 
   ## Website
-  https://dmoloney5.github.io/RUT-React-Portfolio/
+  https://rut-booksearch.herokuapp.com/
 
   ## Repository
   https://github.com/dmoloney5/RUT-Week21-Book-Search.git
